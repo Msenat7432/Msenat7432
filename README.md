@@ -1,4 +1,5 @@
-<h1>👋 Hi, I’m @Msenat7432</h1>
+<h1 align="center"> Hello, I'm Max Senat</h1>
+<h3 align="center">🚀 Full Stack Developer 🚀</h3>
 
 
 [![ Msenat7432 GitHub stats](https://github-readme-stats.vercel.app/api?username=Msenat7432 )](https://github.com/Msenat7432/github-readme-stats)
